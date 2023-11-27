@@ -1,0 +1,12 @@
+pwd
+mkdir preks
+cd preks
+touch new_file.txt
+ls
+touch file.txts
+ls
+cat new_file.txt
+echo "hello is the content in new_file.txt"
+cat new_file.txt
+cat file.txt
+echo "after copying contents from new_file.txt to file.txt"
